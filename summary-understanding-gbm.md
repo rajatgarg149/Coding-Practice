@@ -1,4 +1,4 @@
-`Gradient Boosting Machines` : An ensemble of **sequentially** built **weak** predictors.
+`Gradient Boosting Machines` : An ensemble of **sequentially** built **weak** predictors, a boosting algorithm.
 
 **Why sequential?** - to focus more on mistakes made by predecessor
 
